@@ -1,0 +1,25 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+}
+
+img:hover {
+  box-shadow: 0 0 12px 12px rgba(0, 140, 186, 0.5);
+}
+body{
+	background-color:#E0FFFF;
+	font-family:Times New Roman;
+	font-size:20px;
+}
+.red{
+	color:rgb(0, 83, 77);
+}
+.big_font{
+	font-size:45px;
+}
+#specialStyle{
+	border:2px solid red;
+	background-color:yellow;
+}
